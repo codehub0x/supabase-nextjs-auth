@@ -8,14 +8,14 @@ Once you've created the project in the Supabase dashboard, continue with the nex
 
 ### Deploying to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fdabit3%2Fsupabase-nextjs-auth&env=NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&envDescription=API%20URL%20and%20API%20Key)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fkanew071%2Fsupabase-nextjs-auth&env=NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&envDescription=API%20URL%20and%20API%20Key)
 
 ### Running locally
 
 1. Clone this project
 
 ```sh
-git clone https://github.com/dabit3/supabase-nextjs-auth
+git clone https://github.com/kanew071/supabase-nextjs-auth
 ```
 
 2. Change into the directory and install the dependencies
